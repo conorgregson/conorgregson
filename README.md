@@ -15,7 +15,7 @@ Full-stack developer in **Wakefield, MA** — astrophysics background; product-m
   [![Readr v0.1.0](https://img.shields.io/badge/Readr-v0.1.0-6f42c1.svg)](https://github.com/conorgregson/reading-log-app)
 
 - **Awrel** — HIPAA-compliant secure messaging & storage with custom forms and **AI Co-Pilot**  
-  Website: https://awrel.com/  
+  **Website**: https://awrel.com/  
   **Focus:** dependable UX for regulated workflows and privacy-by-design.
 
 ---
