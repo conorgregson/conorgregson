@@ -1,4 +1,4 @@
-![Banner](./assets/banner.png)
+![Banner](banner.png)
 
 # Hi, I’m Conor 👋
 
