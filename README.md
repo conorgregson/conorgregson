@@ -1,3 +1,5 @@
+![Banner](./assets/banner.png)
+
 # Hi, I’m Conor 👋
 
 Full-stack developer in **Wakefield, MA** — astrophysics background; product-minded with a focus on clean docs, security, and UX.
