@@ -14,7 +14,7 @@ Full-stack developer in **Wakefield, MA** — astrophysics background; product-m
 
 ### Selected work
 - **Readr — Reading Log App** *(Vanilla JS, HTML, CSS)* • Minimal, offline-first reading log with **JSON backup/import**, **security policy**, and **contributor-friendly docs**.  
-  [![Readr v1.5.0](https://img.shields.io/badge/Readr-v1.5.0-6f42c1.svg)](https://github.com/conorgregson/reading-log-app)
+  [![Readr v1.5.0](https://img.shields.io/badge/Readr-v1.5.0-008080.svg)](https://github.com/conorgregson/reading-log-app)
 
 - **Awrel** — HIPAA-compliant secure messaging & storage with custom forms and **AI Co-Pilot**  
   **Website**: https://awrel.com/  
