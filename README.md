@@ -37,7 +37,7 @@ Full-stack developer in **Wakefield, MA** — astrophysics background; product-m
 ---
 
 ### Learning
-- **MIT — Professional Certificate in Coding: Full Stack Development with MERN** *(in progress)*
+- **MIT — Professional Certificate in Coding: Full Stack Development with MERN**
 
 ### Find me
 - LinkedIn: https://www.linkedin.com/in/conorgregson  
