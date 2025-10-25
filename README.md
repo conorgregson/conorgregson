@@ -5,7 +5,7 @@
 Junior full-stack developer in **Wakefield, MA** — astrophysics background; product-minded with a focus on **clean documentation**, **security**, and **UX**.
 
 [![MERN](https://img.shields.io/badge/MERN-Stack-0d9488.svg)](#)
-[![MIT Certificate — Completed](https://img.shields.io/badge/MIT-MERN%20Certificate_Completed-0d9488.svg)](#learning)
+[![MIT Certificate — Completed](https://img.shields.io/badge/MIT-MERN%20Certificate_Completed-750013.svg)](#learning)
 [![HIPAA / Awrel](https://img.shields.io/badge/HIPAA-Awrel-0a84ff.svg)](https://awrel.com/)
 ![CodeQL](https://img.shields.io/badge/Security-CodeQL-6f42c1.svg)
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF.svg?logo=githubactions&logoColor=fff)
@@ -48,9 +48,7 @@ Junior full-stack developer in **Wakefield, MA** — astrophysics background; pr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
