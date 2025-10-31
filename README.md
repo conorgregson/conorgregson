@@ -62,7 +62,7 @@ Junior full-stack developer in **Wakefield, MA** — astrophysics background; pr
 ---
 
 ### Find Me
-- LinkedIn: [linkedin.com/in/conorgregson](https://www.linkedin.com/in/conorgregson)  
+- [LinkedIn](https://www.linkedin.com/in/conorgregson)  
 - Issues welcome on [**Readr**](https://github.com/conorgregson/reading-log-app/issues)
 
 ---
