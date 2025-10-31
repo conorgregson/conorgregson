@@ -37,7 +37,7 @@ Junior full-stack developer in **Wakefield, MA** — astrophysics background; pr
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<sub>Python libraries I use: **NumPy** • **Matplotlib** • **SciPy** • **Tkinter** • **Pandas**(scientific computing; not doing Python frontend/API yet).</sub>
+<sub>Python libraries I use: **NumPy** • **Matplotlib** • **SciPy** • **Tkinter** • **Pandas** (scientific computing; not doing Python frontend/API yet).</sub>
 
 ---
 
