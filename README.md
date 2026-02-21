@@ -2,69 +2,91 @@
 
 # Hi, I’m Conor 👋
 
-Junior full-stack developer in **Wakefield, MA** — astrophysics background; product-minded with a focus on **clean documentation**, **security**, and **UX**.
+Full-stack developer based in **Wakefield, MA** with an academic background in **astrophysics** — bringing systems thinking, precision, and analytical problem-solving to software engineering.
 
-[![MERN](https://img.shields.io/badge/MERN-Stack-0d9488.svg)](#)
-[![MIT Certificate — Completed](https://img.shields.io/badge/MIT-MERN%20Certificate_Completed-750013.svg)](#learning)
-[![HIPAA / Awrel](https://img.shields.io/badge/HIPAA-Awrel-0a84ff.svg)](https://awrel.com/)
+I build versioned, architecture-driven applications with a focus on:
+- Clear separation of concerns
+- Security-aware design
+- Clean documentation
+- Long-term maintainability
+
+[![MIT Full-Stack Certificate](https://img.shields.io/badge/MIT-Full--Stack%20Certificate-750013.svg)](#)
 ![CodeQL](https://img.shields.io/badge/Security-CodeQL-6f42c1.svg)
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF.svg?logo=githubactions&logoColor=fff)
 
 ---
 
-### Selected Work
-- **Readr — Reading Log App** *(Vanilla JS, HTML, CSS)*  
-  Minimal, offline-first reading log with **JSON backup/import**, **security policy**, and **contributor-friendly docs**.  
-  [![Readr v1.6.0](https://img.shields.io/badge/Readr-v1.6.0-008080.svg)](https://github.com/conorgregson/reading-log-app)
+## Selected Work
 
-- **Awrel** — HIPAA-compliant secure messaging & storage with custom forms and **AI Co-Pilot**  
-  **Website:** https://awrel.com/  
-  **Focus:** dependable UX for regulated workflows and privacy-by-design.
+### 📚 Readr v2 — Full-Stack Reading Tracker (Active Development)
+A versioned rewrite of an offline-first app into a scalable full-stack system.
 
----
+- **Backend (v2.0.0):** Express + Prisma + PostgreSQL with CI-backed API tests
+- **Frontend (v2.1.0):** React + TypeScript rebuild with feature-parity discipline
+- Structured sprint cadence with tagged checkpoints
 
-### Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-10B981?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<sub>Python libraries I use: **NumPy** • **Matplotlib** • **SciPy** • **Tkinter** • **Pandas** (scientific computing; not doing Python frontend/API yet).</sub>
+Focus: architectural evolution, API boundaries, schema validation, and incremental releases.
 
 ---
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### 📘 Readr v1 — Offline-First Reading Log
+Vanilla JS application evolved across nine releases (v1.0–v1.9).
+
+- Local-first data modeling (`localStorage`)
+- JSON import/export workflows
+- Search, filters, analytics (streaks + trends)
+- Accessibility improvements and UX refinement
+
+Demonstrates iterative development and migration planning toward v2.
 
 ---
 
-### Learning
-- **AWS Cloud Fundamentals** (S3, EC2, IAM, and deployment pipelines)
-- **PostgreSQL** (schema design, joins, and query optimization)
-- **TypeScript + React** integration for cleaner component typing
-- **TailwindCSS** for design systems and UI consistency
-- Exploring deployment with **Vercel** and **Render**
+## Professional Experience
+
+### Awrel — HIPAA-Compliant Secure Messaging
+Contributed to the development of an earlier version of the company website and frontend experience.
+
+Focus areas:
+- Reliable UX for regulated workflows
+- Privacy-by-design considerations
+- Clean component structure and maintainable UI code
+- Clear documentation for collaboration
+
+Website: https://awrel.com/
 
 ---
 
-### Find Me
-- [LinkedIn](https://www.linkedin.com/in/conorgregson)  
-- Issues welcome on [**Readr**](https://github.com/conorgregson/reading-log-app/issues)
+## Core Stack
+
+### Frontend
+React • TypeScript • Tailwind • Vite • Next.js
+
+### Backend
+Node • Express • PostgreSQL • Prisma • Zod
+
+### Data & Scientific Computing
+Python • NumPy • SciPy • Pandas • Matplotlib
+
+### Tooling
+GitHub Actions • Docker • Postman • Git • VSCode
 
 ---
 
-<sub>Always learning — building polished, secure, and maintainable full-stack projects.</sub>
+## Education & Certifications
+- MIT Full Stack Development with MERN Certificate
+- Astrophysics coursework (Python, MATLAB, scientific computing and modeling)
+
+---
+
+## Currently Exploring
+- AWS (S3, EC2, IAM, deployment pipelines)
+- PostgreSQL schema optimization
+- Advanced TypeScript patterns
+- Cloud deployment strategies (Render / Vercel)
+
+---
+
+## 🔗 Connect
+- [LinkedIn](https://www.linkedin.com/in/conorgregson)
+
+Open to collaboration and feedback on Readr.
